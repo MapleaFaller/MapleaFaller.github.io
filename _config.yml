@@ -1,18 +1,18 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: Mapleaf Blog
+SEOTitle: 落枫的博客 | Mapleaf Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: 2530244513@qq.com
+description: "Keep a record of life."
+keyword: "Mapleaf, Mapleaf Blog, 落枫的博客, qiubaiying, 落枫"
+url: "http://mapleafaller.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Keep going."
+sidebar-avatar: /img/avatar-g      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
